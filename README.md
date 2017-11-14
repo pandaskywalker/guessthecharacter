@@ -1,5 +1,6 @@
 # GuessTheCharacter
 
+
 # TODO :
 
-# 1. GUI
+1. GUI
