@@ -90,7 +90,7 @@ namespace GuessTheCharacter0._4
                         ConsoleKeyInfo ck = Console.ReadKey();
                         if (ck.Key == ConsoleKey.Y)
                         {
-                            dif = userdif++;
+                            dif = userdif + 1;
                             Console.WriteLine("");
                             continue;
                         }
