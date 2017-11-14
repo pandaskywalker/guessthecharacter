@@ -1,0 +1,7 @@
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\bin\Debug\GuessTheCharacter.exe.config
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\bin\Debug\GuessTheCharacter.exe
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\bin\Debug\GuessTheCharacter.pdb
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\obj\Debug\GuessTheCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\obj\Debug\GuessTheCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\obj\Debug\GuessTheCharacter.exe
+C:\Users\Panda\source\repos\GuessTheCharacter\GuessTheCharacter\obj\Debug\GuessTheCharacter.pdb
